@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>GhostRedditor Privacy Policy</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                margin: 0;
+                background-color: #f4f4f4;
+                padding: 20px
+            }
+
+            .header {
+                background-color: #333;
+                color: #f4f4f4;
+                padding: 10px;
+                text-align: center;
+            }
+
+            .menu {
+                margin: 15px;
+                padding: 10px;
+                background-color: #ddd;
+            }
+
+            h1, h2 {
+                color: #333;
+            }
+
+            a {
+                color: #0088cc;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="header">
+            <h1>GhostRedditor</h1>
+        </div>
+        <div class="menu">
+            <a href="index.html">Home</a> |
+            <a href="ghostredditorprvc.html">GhostRedditor Privacy Policy</a> |
+        </div>
+        <div class="content">
+            <h1>Pocket16 Privacy Policy</h1>
+    <p>Effective date: June 12, 2023</p>
+    <p>We respect your privacy and are committed to protecting it through our compliance with this privacy policy. This policy describes:</p>
+    <ul>
+        <li>The types of information we may collect or that you may provide when you download, install, register with, access, or use the Pocket16 (the "App").</li>
+        <li>Our practices for collecting, using, maintaining, protecting, and disclosing that information.</li>
+    </ul>
+
+    <h2>Information We Collect and How We Collect It</h2>
+    <p>We do not collect any personal data. You can use our app without providing any personal information.</p>
+
+    <h2>Data Collection and Third-Party Advertising</h2>
+    <p>The only connectivity our app has is for the purpose of displaying advertisements. These ads are served by Google's AdMob network. Please note that Google may use information regarding your usage of the App in accordance with its own privacy policy.</p>
+
+    <h2>Changes to Our Privacy Policy</h2>
+    <p>We may update our privacy policy from time to time. If we make material changes to how we treat our users' personal information, we will post the new privacy policy on this page.</p>
+    <p>The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting this privacy policy to check for any changes.</p>
+        </div>
+    </body>
+</html>
